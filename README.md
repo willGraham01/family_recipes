@@ -5,3 +5,4 @@ Set of recipes as given by my grandma.
 * pizzas (okay now)
 * sauces (TODO)
 * spreads (TODO)
+* [Pizza](./pizza.md)
