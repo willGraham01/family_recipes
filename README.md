@@ -2,7 +2,8 @@
 
 Set of recipes as given by my grandma.
 
-* pizzas (okay now)
+* pizzas (NOT OK)
 * sauces (TODO)
 * spreads (TODO)
-* [pasta](./pasta.md)
+* [Pasta](./pasta.md)
+* [Pizza](./pizza.md)
